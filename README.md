@@ -1,4 +1,4 @@
-# Moarloser / Enufhud
+# Moarhud
 This hud is a fork of the legendary **m0rehud** created by [m0re](https://web.archive.org/web/20090805060945/http://www.m0re.nocrits.com/) somewhere in **2008-2009**.<br><br>
 It is based on an old version of [Hypnootize's](https://github.com/Hypnootize/m0rehud) maintained fork. Specifically **m0rehud 6.x/classic**
 
