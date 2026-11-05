@@ -151,16 +151,6 @@
 				"outline" 									"1"
 			}
 		}
-		"m0refont18Numbers"
-		{
-			"1"
-			{
-				"name"										"surface_numbers"
-				"tall"										"18"
-				"antialias" 								"1"
-				"outline" 									"1"
-			}
-		}
 		"m0refont20"
 		{
 			"1"
@@ -228,16 +218,6 @@
 				"outline" 									"1"
 			}
 		}
-		"m0refont24Numbers"
-		{
-			"1"
-			{
-				"name"										"surface_numbers"
-				"tall"										"24"
-				"antialias" 								"1"
-				"outline" 									"1"
-			}
-		}
 		"m0refont26"
 		{
 			"1"
@@ -261,16 +241,6 @@
 			"1"
 			{
 				"name"										"surface_medium"
-				"tall"										"30"
-				"antialias" 								"1"
-				"outline" 									"1"
-			}
-		}
-		"m0refont30Numbers"
-		{
-			"1"
-			{
-				"name"										"surface_numbers"
 				"tall"										"30"
 				"antialias" 								"1"
 				"outline" 									"1"
@@ -322,72 +292,6 @@
 				"antialias"									"1"
 			}
 		}
-		"m0refont72"
-		{
-			"1"
-			{
-				"name"										"surface_medium"
-				"tall"										"72"
-				"yres"										"400 500"
-				"antialias"									"1"
-			}
-			"2"
-			{
-				"name"										"surface_medium"
-				"tall"										"88"
-				"yres"										"501 600"
-				"antialias"									"1"
-			}
-			"3"
-			{
-				"name"										"surface_medium"
-				"tall"										"95"
-				"yres"										"601 679"
-				"antialias"									"1"
-			}
-			"4"
-			{
-				"name"										"surface_medium"
-				"tall"										"103"
-				"yres"										"680 720"
-				"antialias"									"1"
-			}
-			"5"
-			{
-				"name"										"surface_medium"
-				"tall"										"110"
-				"yres"										"721 799"
-				"antialias"									"1"
-			}
-			"6"
-			{
-				"name"										"surface_medium"
-				"tall"										"117"
-				"yres"										"800 899"
-				"antialias"									"1"
-			}
-			"7"
-			{
-				"name"										"surface_medium"
-				"tall"										"123"
-				"yres"										"900 1030"
-				"antialias"									"1"
-			}
-			"8"
-			{
-				"name"										"surface_medium"
-				"tall"										"130"
-				"yres"										"1031 1199"
-				"antialias"									"1"
-			}
-			"9"
-			{
-				"name"										"surface_numbers_xl"
-				"tall"										"999"
-				"yres"										"1200 6000"
-				"antialias"									"1"
-			}
-		}
 
 		"m0reSymbols18"
 		{
@@ -404,34 +308,6 @@
 			{
 				"name"										"m0rehud_icons_enuf"
 				"tall"										"20"
-				"antialias" 								"1"
-			}
-		}
-
-		"Coolvetica11"
-		{
-			"1"
-			{
-				"name"										"coolvetica"
-				"tall"										"11"
-				"antialias" 								"1"
-			}
-		}
-		"Coolvetica13"
-		{
-			"1"
-			{
-				"name"										"coolvetica"
-				"tall"										"13"
-				"antialias" 								"1"
-			}
-		}
-		"Coolvetica15"
-		{
-			"1"
-			{
-				"name"										"coolvetica"
-				"tall"										"15"
 				"antialias" 								"1"
 			}
 		}
@@ -453,15 +329,6 @@
 				"name"										"Verdana"
 				"tall"										"6"
 				"antialias" 								"1"
-			}
-		}
-
-		"BlocksSharp64"
-		{
-			"1"
-			{
-				"name"										"blocks"
-				"tall"										"64"
 			}
 		}
 
