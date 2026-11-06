@@ -1,5 +1,2 @@
 # Ignore source cache
 sound.cache
-
-# Because the preloader keeps adding unwanted bullshit to it.
-resource/ui/mainmenuoverride.res
